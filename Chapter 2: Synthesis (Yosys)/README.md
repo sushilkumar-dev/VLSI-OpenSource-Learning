@@ -1,7 +1,7 @@
 ## 📘 Chapter 2: Synthesis
-- RTL to gate-level conversion  
-- Technology mapping using `.lib` files  
-- Gate-level netlist generation  
-- Area estimation and optimization  
-- Logic optimization techniques  
-- Cell usage and gate count analysis  
+- 2.1 RTL to gate-level conversion  
+- 2.2 Technology mapping using `.lib` files  
+- 2.3 Gate-level netlist generation  
+- 2.4 Area estimation and optimization  
+- 2.5 Logic optimization techniques  
+- 2.6 Cell usage and gate count analysis  
