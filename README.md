@@ -17,31 +17,55 @@ This repository demonstrates the complete ASIC design flow using open-source VLS
 
 ## Learning Modules
 
-### Chapter 1: Verilog & Simulation
-- RTL design using Verilog  
+# Concepts Covered (Chapter-wise)
+
+## 📘 Chapter 1: Verilog & Simulation
+- Verilog syntax and module structure  
+- Combinational logic design  
+- Sequential logic basics  
 - Testbench development  
-- Waveform analysis
+- Simulation using Icarus Verilog  
+- Waveform analysis using GTKWave  
 
-### Chapter 2: Synthesis
+---
+
+## 📘 Chapter 2: Synthesis
 - RTL to gate-level conversion  
-- Technology mapping using Sky130 `.lib`  
-- Area and gate count analysis  
+- Technology mapping using `.lib` files  
+- Gate-level netlist generation  
+- Area estimation and optimization  
+- Logic optimization techniques  
+- Cell usage and gate count analysis  
 
-### Chapter 3: Timing Analysis
-- Setup & hold timing  
-- Slack and critical path  
+---
+
+## 📘 Chapter 3: Timing Analysis
+- Setup time and hold time  
+- Slack and timing violations  
+- Critical path analysis  
+- Clock constraints and definitions  
 - Static Timing Analysis (STA)  
+- Multi-corner timing (tt, ss, ff)  
 
-### Chapter 4: Physical Design
-- Floorplanning  
-- Placement  
-- Routing  
-- Power distribution  
+---
 
-### Chapter 5: Signoff & Verification
-- DRC (Design Rule Check)  
-- LVS (Layout vs Schematic)  
-- GDSII generation
+## 📘 Chapter 4: Physical Design
+- Floorplanning and die area  
+- Standard cell placement  
+- Clock Tree Synthesis (CTS)  
+- Routing (global and detailed)  
+- Power distribution (VDD/VSS)  
+- Congestion and utilization  
+
+---
+
+## 📘 Chapter 5: Signoff & Verification
+- Design Rule Check (DRC)  
+- Layout vs Schematic (LVS)  
+- Parasitic extraction (RC)  
+- Power analysis (dynamic & leakage)  
+- IR drop analysis  
+- GDSII generation (final chip layout)  
 
 **Note:** The same two designs (CMOS Inverter and AND Gate) are implemented across all chapters to demonstrate the complete ASIC design flow.  
 
