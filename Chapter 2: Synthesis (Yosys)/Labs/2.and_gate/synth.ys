@@ -1,0 +1,6 @@
+read_verilog and.v
+synth
+opt
+abc
+stat
+write_verilog and_netlist.v
