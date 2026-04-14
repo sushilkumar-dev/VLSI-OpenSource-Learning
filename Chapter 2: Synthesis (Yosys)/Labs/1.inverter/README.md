@@ -7,7 +7,7 @@ To synthesize a Verilog design using Yosys.
 The RTL design is converted into a gate-level netlist using synthesis.
 
 ## Steps
-yosys synth.ys
+yosys synth.ys > report.txt
 
 ## Output
 - Gate-level netlist generated
