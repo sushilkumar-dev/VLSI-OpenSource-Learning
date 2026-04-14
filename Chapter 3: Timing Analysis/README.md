@@ -1,3 +1,14 @@
+## 📘 Chapter 3: Timing Analysis
+- 3.1 Setup time and hold time  
+- 3.2 Slack and timing violations  
+- 3.3 Critical path analysis  
+- 3.4 Clock constraints and definitions  
+- 3.5 Static Timing Analysis (STA)  
+- 3.6 Multi-corner timing (tt, ss, ff)  
+
+
+
+
 # Chapter 3: Timing Analysis
 
 ## 3.1 Setup Time and Hold Time
