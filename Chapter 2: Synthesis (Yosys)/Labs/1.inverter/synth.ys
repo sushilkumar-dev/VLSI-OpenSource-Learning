@@ -1,0 +1,6 @@
+read_verilog inverter.v
+synth
+opt
+abc
+stat
+write_verilog inverter_netlist.v
