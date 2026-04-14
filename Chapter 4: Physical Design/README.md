@@ -1,3 +1,14 @@
+
+## 📘 Chapter 4: Physical Design
+- 4.1 Floorplanning and die area  
+- 4.2 Standard cell placement  
+- 4.3 Clock Tree Synthesis (CTS)  
+- 4.4 Routing (global and detailed)  
+- 4.5 Power distribution (VDD/VSS)  
+- 4.6 Congestion and utilization
+
+---
+
 # Chapter 4: Physical Design
 
 ## 4.1 Floorplanning and Die Area
